@@ -1,7 +1,7 @@
 # HR-ANALYTICS-EXCEL-PROJETCT
 HR data analysis
 
-##📊 HR Analytics Dashboard (Excel)
+#📊 HR Analytics Dashboard (Excel)
 
 📁 Project Overview
 
@@ -33,7 +33,7 @@ This project is an HR Analytics Dashboard built entirely in Microsoft Excel, des
 
 -Department
 
-##📌 Tools & Technologies Used
+#📌 Tools & Technologies Used
 
 -Microsoft Excel
 
@@ -47,7 +47,7 @@ This project is an HR Analytics Dashboard built entirely in Microsoft Excel, des
 
 -Dashboard Layout Design
 
-##Insights You Can Draw
+#Insights You Can Draw
 
 -Departments with the highest attrition
 
