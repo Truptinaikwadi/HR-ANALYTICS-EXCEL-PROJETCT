@@ -5,7 +5,7 @@ HR data analysis
 
 📁 Project Overview
 
-#This project is an HR Analytics Dashboard built entirely in Microsoft Excel, designed to provide clear and actionable insights into employee attrition, workforce demographics, and department-wise statistics.
+This project is an HR Analytics Dashboard built entirely in Microsoft Excel, designed to provide clear and actionable insights into employee attrition, workforce demographics, and department-wise statistics.
 
 ✅ Key Features
 
